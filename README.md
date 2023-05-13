@@ -5,6 +5,7 @@ Social Meet is a term project for CSC 350, it is a simple messaging/social media
 
 
 ----- IT IS REQUIRED TO IMPORT THE DATABASE 'social_meet.sql' OR ELSE NONE OF THE CODE WILL FUNCTION. -----
+
 ----- XAMPP and MySql IS ALSO REQUIRED -----
 
 
